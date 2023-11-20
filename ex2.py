@@ -1,3 +1,4 @@
+#ioguoguofgfguiofg
 def lireFichier(name:str):
     ls = []
     with open(name, 'r') as f:
